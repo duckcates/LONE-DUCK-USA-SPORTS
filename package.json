@@ -1,0 +1,8 @@
+{
+  "name": "lone-duck-usa-sports",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Lone Duck USA Sports: scores, standings and rosters that update automatically from ESPN.",
+  "engines": { "node": ">=18" }
+}
